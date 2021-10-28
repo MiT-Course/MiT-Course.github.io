@@ -2,14 +2,14 @@
   "formatVersion": "1.2",
   "title": "MiT Course Workshop",
   "publisherName": "MiT: App & Web Developers",
-  "feedIdentifier": "io.github.MiT-Course",
+  "feedIdentifier": "io.github.mit-course",
   "contactURL": "mailto:diegosutera.mit@gmail.com",
   "documents": [
       {
           "title": "Math & Greek Calculator",
           "overviewSubtitle": "A greek contractions and polynomials calculator",
           "description": "Math and Greek Calculator is a greek contractions calculator that also generates and calculates polynomials.",
-          "contentIdentifier": "io.github.MiT-Course.Math&GreekCalc",
+          "contentIdentifier": "io.github.mit-course.mathgreek",
           "contentVersion": "1.0",
           "url": "calculator/calculator.playgroundbook.zip",
           "publishedDate": "2021-10-28T00:00:00+00:00",
